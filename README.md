@@ -74,7 +74,7 @@ project/
 ### 1. Clone atau Download Project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/oymasdani-arch/Hospital-ML-Dashboard.git
 cd dashboard-prediksi-rawat-inap
 ```
 
@@ -238,3 +238,4 @@ Proyek ini dibuat untuk keperluan akademik/penelitian. Silakan disesuaikan denga
 **🎓 Dashboard Prediksi Lama Rawat Inap Pasien**  
 _Sistem Prediksi Berbasis Machine Learning untuk Data RME_  
 _Dikembangkan untuk keperluan penelitian skripsi_
+
