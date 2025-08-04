@@ -1,0 +1,101 @@
+Inisial_Nama,Usia,Jenis_Kelamin,Diagnosa_ICD,Komorbid,Tindakan,Kelas_Perawatan,Asuransi,Asuhan_Keperawatan,Cepat_Sembuh,Lama_Rawat
+D001,71,L,J45,CKD,Observasi,Kelas 2,Asuransi Swasta,Ketergantungan Penuh,0,4
+D002,34,P,I10,Diabetes,Operasi Minor,Kelas 3,Umum,Mandiri,0,2
+D003,80,L,N39,Diabetes,Operasi Mayor,VIP,Asuransi Swasta,Mandiri,0,7
+D004,40,L,I10,Diabetes,Operasi Minor,Kelas 1,Asuransi Swasta,Ketergantungan Penuh,0,3
+D005,43,P,I10,Hipertensi,Medikamentosa,Kelas 1,Umum,Bantuan Sedang,0,4
+D006,22,L,J45,CKD,Operasi Minor,Kelas 1,Asuransi Swasta,Mandiri,0,2
+D007,41,L,I10,Tidak Ada,Medikamentosa,Kelas 3,BPJS,Mandiri,1,4
+D008,72,L,E11,Asma,Operasi Minor,Kelas 3,BPJS,Mandiri,0,5
+D009,21,L,E11,Tidak Ada,Operasi Mayor,Kelas 1,Asuransi Swasta,Ketergantungan Penuh,0,7
+D010,49,L,K29,CKD,Operasi Mayor,VIP,BPJS,Bantuan Sedang,0,5
+D011,57,P,N39,Asma,Medikamentosa,Kelas 3,Asuransi Swasta,Ketergantungan Penuh,0,1
+D012,21,P,I10,CKD,Observasi,Kelas 1,BPJS,Ketergantungan Penuh,0,7
+D013,83,P,I10,Diabetes,Medikamentosa,Kelas 1,BPJS,Bantuan Sedang,0,3
+D014,79,L,J45,Asma,Medikamentosa,VIP,Asuransi Swasta,Ketergantungan Penuh,0,4
+D015,40,L,E11,Diabetes,Operasi Minor,Kelas 2,BPJS,Bantuan Sedang,0,1
+D016,52,L,N39,Tidak Ada,Operasi Minor,Kelas 3,Asuransi Swasta,Mandiri,0,6
+D017,77,P,K29,Tidak Ada,Medikamentosa,VIP,BPJS,Bantuan Sedang,0,12
+D018,41,L,E11,Asma,Operasi Mayor,Kelas 1,BPJS,Mandiri,0,5
+D019,68,L,K29,Asma,Operasi Minor,Kelas 1,Umum,Ketergantungan Penuh,0,6
+D020,78,P,J45,CKD,Observasi,VIP,Umum,Ketergantungan Penuh,0,3
+D021,61,L,J45,CKD,Operasi Minor,Kelas 3,Asuransi Swasta,Mandiri,0,7
+D022,79,P,I10,Diabetes,Operasi Minor,Kelas 2,Umum,Ketergantungan Penuh,0,8
+D023,34,P,N39,Asma,Observasi,Kelas 2,Asuransi Swasta,Bantuan Sedang,0,2
+D024,81,P,K29,Tidak Ada,Medikamentosa,Kelas 1,Umum,Mandiri,0,5
+D025,81,L,E11,CKD,Observasi,Kelas 3,BPJS,Ketergantungan Penuh,0,4
+D026,66,L,J45,CKD,Medikamentosa,Kelas 2,Asuransi Swasta,Mandiri,0,1
+D027,81,L,I10,Tidak Ada,Medikamentosa,Kelas 3,Asuransi Swasta,Bantuan Sedang,0,6
+D028,70,L,I10,CKD,Medikamentosa,Kelas 3,BPJS,Bantuan Sedang,0,4
+D029,74,L,K29,Diabetes,Observasi,Kelas 1,Asuransi Swasta,Ketergantungan Penuh,0,4
+D030,83,L,J45,Asma,Medikamentosa,Kelas 2,Asuransi Swasta,Bantuan Sedang,0,5
+D031,22,L,N39,Tidak Ada,Operasi Mayor,VIP,Umum,Mandiri,0,4
+D032,70,P,J45,Asma,Observasi,Kelas 1,Asuransi Swasta,Bantuan Sedang,0,7
+D033,26,L,K29,CKD,Operasi Mayor,Kelas 2,BPJS,Mandiri,0,6
+D034,40,P,K29,CKD,Medikamentosa,Kelas 2,Umum,Mandiri,0,3
+D035,58,L,J45,Tidak Ada,Operasi Minor,Kelas 2,Umum,Bantuan Sedang,0,4
+D036,37,L,K29,Diabetes,Medikamentosa,Kelas 2,BPJS,Ketergantungan Penuh,0,3
+D037,23,L,J45,Hipertensi,Operasi Mayor,Kelas 2,BPJS,Bantuan Sedang,0,4
+D038,79,P,E11,Tidak Ada,Operasi Mayor,Kelas 3,Umum,Mandiri,0,1
+D039,33,P,J45,Hipertensi,Observasi,Kelas 1,Asuransi Swasta,Mandiri,0,10
+D040,28,P,J45,Hipertensi,Operasi Minor,Kelas 3,Umum,Bantuan Sedang,0,5
+D041,72,P,K29,Diabetes,Observasi,VIP,BPJS,Ketergantungan Penuh,0,7
+D042,21,L,K29,Hipertensi,Operasi Mayor,Kelas 2,Umum,Ketergantungan Penuh,0,3
+D043,79,P,I10,Hipertensi,Medikamentosa,Kelas 1,BPJS,Mandiri,0,0
+D044,63,L,I10,Diabetes,Operasi Minor,Kelas 2,Umum,Mandiri,0,4
+D045,27,L,E11,Hipertensi,Medikamentosa,Kelas 1,Asuransi Swasta,Ketergantungan Penuh,0,9
+D046,66,P,I10,Hipertensi,Medikamentosa,Kelas 3,Umum,Bantuan Sedang,0,9
+D047,54,P,J45,Hipertensi,Operasi Minor,Kelas 1,Umum,Mandiri,0,9
+D048,55,P,K29,Tidak Ada,Observasi,VIP,BPJS,Mandiri,0,3
+D049,69,P,I10,Tidak Ada,Medikamentosa,VIP,BPJS,Ketergantungan Penuh,0,5
+D050,23,P,I10,Tidak Ada,Operasi Mayor,Kelas 1,BPJS,Bantuan Sedang,0,9
+D051,21,P,E11,Diabetes,Medikamentosa,Kelas 1,Umum,Ketergantungan Penuh,0,5
+D052,25,P,E11,CKD,Operasi Minor,Kelas 1,Asuransi Swasta,Bantuan Sedang,0,7
+D053,73,P,J45,Hipertensi,Operasi Minor,Kelas 1,BPJS,Bantuan Sedang,0,8
+D054,23,L,K29,Hipertensi,Operasi Minor,VIP,BPJS,Bantuan Sedang,0,4
+D055,73,P,E11,Diabetes,Observasi,Kelas 2,Umum,Mandiri,0,6
+D056,82,P,I10,Hipertensi,Medikamentosa,Kelas 1,BPJS,Ketergantungan Penuh,0,4
+D057,37,L,K29,Tidak Ada,Observasi,Kelas 1,Asuransi Swasta,Ketergantungan Penuh,0,4
+D058,63,P,K29,CKD,Observasi,VIP,Asuransi Swasta,Bantuan Sedang,0,4
+D059,53,L,I10,Asma,Operasi Minor,VIP,BPJS,Mandiri,0,5
+D060,81,L,E11,Hipertensi,Operasi Minor,Kelas 3,BPJS,Mandiri,0,6
+D061,33,P,I10,Tidak Ada,Observasi,Kelas 1,Umum,Ketergantungan Penuh,0,4
+D062,67,L,K29,Asma,Medikamentosa,Kelas 3,Asuransi Swasta,Mandiri,0,2
+D063,34,L,N39,CKD,Operasi Mayor,VIP,Asuransi Swasta,Mandiri,0,4
+D064,81,L,N39,Asma,Observasi,VIP,BPJS,Bantuan Sedang,0,7
+D065,59,L,J45,Tidak Ada,Medikamentosa,Kelas 2,Umum,Mandiri,0,6
+D066,72,P,I10,Asma,Operasi Minor,Kelas 1,Asuransi Swasta,Bantuan Sedang,0,7
+D067,43,L,I10,Diabetes,Operasi Minor,Kelas 3,Asuransi Swasta,Ketergantungan Penuh,0,4
+D068,45,P,J45,Asma,Medikamentosa,VIP,Umum,Mandiri,0,10
+D069,79,L,J45,Hipertensi,Operasi Mayor,VIP,Umum,Ketergantungan Penuh,0,6
+D070,60,L,J45,Hipertensi,Operasi Minor,Kelas 3,Asuransi Swasta,Ketergantungan Penuh,0,9
+D071,48,L,K29,Diabetes,Operasi Minor,Kelas 2,Asuransi Swasta,Mandiri,0,4
+D072,34,L,I10,Tidak Ada,Operasi Minor,VIP,Umum,Mandiri,0,8
+D073,64,P,K29,Hipertensi,Medikamentosa,Kelas 1,Asuransi Swasta,Ketergantungan Penuh,0,8
+D074,84,P,J45,CKD,Observasi,VIP,BPJS,Mandiri,0,7
+D075,28,L,I10,Hipertensi,Operasi Minor,Kelas 1,BPJS,Bantuan Sedang,0,4
+D076,20,L,K29,Hipertensi,Observasi,Kelas 3,Umum,Bantuan Sedang,0,7
+D077,27,P,K29,Tidak Ada,Operasi Mayor,Kelas 1,Umum,Mandiri,0,4
+D078,82,L,J45,Asma,Operasi Minor,Kelas 3,Umum,Ketergantungan Penuh,0,5
+D079,30,L,I10,Hipertensi,Operasi Minor,Kelas 1,BPJS,Mandiri,0,7
+D080,27,L,J45,Diabetes,Operasi Mayor,Kelas 3,Asuransi Swasta,Mandiri,0,2
+D081,54,P,I10,Asma,Operasi Minor,Kelas 1,BPJS,Ketergantungan Penuh,0,9
+D082,54,P,N39,CKD,Observasi,Kelas 2,Asuransi Swasta,Ketergantungan Penuh,0,6
+D083,52,P,E11,Tidak Ada,Medikamentosa,Kelas 1,BPJS,Bantuan Sedang,0,6
+D084,24,L,E11,CKD,Observasi,Kelas 1,Asuransi Swasta,Ketergantungan Penuh,0,2
+D085,60,L,E11,Asma,Medikamentosa,Kelas 2,BPJS,Bantuan Sedang,0,0
+D086,47,P,J45,Asma,Medikamentosa,VIP,Umum,Ketergantungan Penuh,0,1
+D087,26,P,N39,Asma,Observasi,VIP,BPJS,Mandiri,0,7
+D088,31,P,I10,CKD,Observasi,Kelas 1,Asuransi Swasta,Bantuan Sedang,0,10
+D089,53,P,K29,Asma,Observasi,Kelas 2,BPJS,Bantuan Sedang,0,5
+D090,52,L,I10,CKD,Observasi,Kelas 1,BPJS,Bantuan Sedang,0,3
+D091,67,P,K29,Asma,Operasi Mayor,Kelas 3,BPJS,Mandiri,0,4
+D092,42,L,I10,Diabetes,Operasi Minor,Kelas 3,Umum,Mandiri,0,8
+D093,81,P,N39,Asma,Medikamentosa,Kelas 1,BPJS,Mandiri,0,8
+D094,56,L,K29,CKD,Observasi,VIP,Umum,Mandiri,0,4
+D095,63,P,J45,Hipertensi,Observasi,VIP,Umum,Mandiri,0,3
+D096,54,P,I10,Asma,Observasi,Kelas 1,BPJS,Bantuan Sedang,0,1
+D097,84,P,I10,Hipertensi,Operasi Mayor,Kelas 1,BPJS,Mandiri,0,1
+D098,66,P,K29,Diabetes,Observasi,Kelas 3,BPJS,Bantuan Sedang,0,4
+D099,22,L,J45,Tidak Ada,Observasi,VIP,Asuransi Swasta,Mandiri,0,3
+D100,20,P,J45,Diabetes,Observasi,Kelas 1,BPJS,Ketergantungan Penuh,0,7

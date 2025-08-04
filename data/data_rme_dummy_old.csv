@@ -1,0 +1,101 @@
+Usia,Jenis_Kelamin,Diagnosa_ICD,Komorbid,Tindakan,Kelas_Perawatan,Asuransi,Lama_Rawat
+33,L,I10,Asma,Bronkoskopi,Kelas 1,Umum,12
+41,P,J18.9,Asma,Dialisis,Kelas 2,BPJS,8
+76,P,J18.9,Tidak Ada,Dialisis,Kelas 1,BPJS,6
+67,L,N18.9,Diabetes,Observasi,VIP,Umum,7
+84,P,J18.9,Hipertensi,CT Scan,Kelas 3,Umum,8
+46,L,J18.9,Tidak Ada,Infus,Kelas 1,Umum,14
+82,P,J18.9,"Diabetes, HT",CT Scan,Kelas 1,BPJS,9
+70,L,A09,Hipertensi,Observasi,VIP,BPJS,14
+82,P,J18.9,Asma,Bronkoskopi,Kelas 3,Umum,1
+59,L,B34.9,Tidak Ada,Infus,VIP,Umum,2
+36,L,A09,"Diabetes, HT",Observasi,Kelas 2,Umum,4
+44,P,J18.9,Diabetes,Observasi,Kelas 2,BPJS,13
+24,P,A09,Asma,Observasi,Kelas 2,BPJS,14
+73,P,I10,Tidak Ada,Bronkoskopi,Kelas 1,Umum,12
+54,L,N18.9,Hipertensi,Dialisis,Kelas 3,Umum,11
+47,P,B34.9,"Diabetes, HT",CT Scan,Kelas 2,BPJS,6
+63,P,J18.9,Diabetes,Observasi,Kelas 1,BPJS,10
+57,P,J18.9,Asma,Bronkoskopi,Kelas 2,BPJS,8
+64,L,A09,Hipertensi,Dialisis,VIP,BPJS,5
+61,P,I10,"Diabetes, HT",CT Scan,VIP,Umum,2
+52,P,I10,Diabetes,Dialisis,VIP,BPJS,7
+21,L,N18.9,Diabetes,Observasi,Kelas 3,Umum,2
+50,L,A09,Tidak Ada,Dialisis,Kelas 1,Umum,4
+71,L,A09,Asma,Bronkoskopi,Kelas 1,BPJS,1
+76,P,J18.9,Diabetes,Bronkoskopi,VIP,Umum,14
+71,L,I10,Asma,Bronkoskopi,Kelas 1,Umum,5
+55,L,A09,"Diabetes, HT",Dialisis,VIP,BPJS,3
+20,P,B34.9,Tidak Ada,CT Scan,Kelas 2,Umum,8
+50,P,N18.9,"Diabetes, HT",CT Scan,Kelas 3,BPJS,12
+75,L,N18.9,Asma,Dialisis,Kelas 1,Umum,10
+39,P,J18.9,Diabetes,Observasi,VIP,Umum,4
+59,P,J18.9,Hipertensi,CT Scan,Kelas 2,Umum,13
+61,L,I10,Tidak Ada,Observasi,VIP,Umum,14
+54,P,I10,"Diabetes, HT",Bronkoskopi,VIP,BPJS,13
+70,P,B34.9,"Diabetes, HT",Bronkoskopi,VIP,BPJS,5
+37,P,B34.9,"Diabetes, HT",Dialisis,Kelas 3,Umum,8
+34,L,I10,Tidak Ada,CT Scan,Kelas 2,Umum,12
+31,P,N18.9,Hipertensi,Dialisis,Kelas 1,Umum,14
+55,P,A09,Tidak Ada,Observasi,VIP,Umum,12
+72,L,B34.9,Hipertensi,Bronkoskopi,VIP,Umum,10
+30,L,B34.9,Diabetes,Bronkoskopi,VIP,Umum,4
+70,P,I10,Hipertensi,Bronkoskopi,Kelas 1,Umum,6
+70,L,J18.9,"Diabetes, HT",Infus,Kelas 1,Umum,10
+29,P,B34.9,Tidak Ada,CT Scan,VIP,Umum,2
+52,L,B34.9,Hipertensi,Observasi,Kelas 1,BPJS,12
+31,L,J18.9,Diabetes,Infus,Kelas 2,BPJS,13
+28,L,B34.9,Asma,Dialisis,VIP,Umum,8
+64,L,A09,"Diabetes, HT",Bronkoskopi,Kelas 2,Umum,13
+19,P,B34.9,Hipertensi,Dialisis,Kelas 2,Umum,5
+84,P,I10,Asma,Bronkoskopi,Kelas 3,Umum,12
+38,P,I10,Asma,CT Scan,Kelas 3,BPJS,6
+24,L,I10,Hipertensi,Infus,VIP,Umum,6
+56,L,B34.9,Tidak Ada,Infus,Kelas 2,Umum,11
+41,P,I10,Hipertensi,Bronkoskopi,Kelas 1,BPJS,3
+78,L,N18.9,Hipertensi,CT Scan,Kelas 3,Umum,4
+70,P,J18.9,Diabetes,Observasi,VIP,BPJS,7
+27,L,I10,Diabetes,Infus,Kelas 3,BPJS,11
+85,P,N18.9,Tidak Ada,Bronkoskopi,VIP,Umum,11
+53,P,N18.9,"Diabetes, HT",Infus,Kelas 1,Umum,11
+57,P,I10,Diabetes,Infus,Kelas 2,Umum,14
+43,L,N18.9,Hipertensi,Bronkoskopi,Kelas 1,BPJS,8
+54,L,I10,"Diabetes, HT",Dialisis,VIP,BPJS,8
+45,P,A09,"Diabetes, HT",Infus,Kelas 3,Umum,7
+77,L,A09,Asma,Dialisis,Kelas 3,BPJS,8
+56,P,B34.9,Asma,Dialisis,Kelas 3,BPJS,8
+28,L,J18.9,Hipertensi,Bronkoskopi,Kelas 1,Umum,1
+74,P,I10,Diabetes,CT Scan,Kelas 2,Umum,2
+63,P,A09,"Diabetes, HT",Infus,VIP,BPJS,2
+60,L,A09,"Diabetes, HT",Bronkoskopi,VIP,BPJS,3
+54,P,B34.9,Diabetes,Observasi,Kelas 3,Umum,7
+42,P,B34.9,"Diabetes, HT",Infus,VIP,BPJS,10
+75,L,N18.9,"Diabetes, HT",Infus,Kelas 1,Umum,6
+59,P,A09,Tidak Ada,Dialisis,VIP,Umum,7
+49,P,N18.9,Tidak Ada,Infus,VIP,BPJS,14
+41,L,J18.9,Hipertensi,Dialisis,Kelas 2,BPJS,2
+24,P,I10,Diabetes,CT Scan,Kelas 3,Umum,3
+49,L,I10,Tidak Ada,CT Scan,Kelas 1,BPJS,3
+83,P,I10,Hipertensi,Infus,Kelas 1,BPJS,11
+37,P,J18.9,Hipertensi,Observasi,VIP,BPJS,12
+19,L,N18.9,Tidak Ada,Bronkoskopi,Kelas 3,BPJS,2
+34,L,B34.9,Hipertensi,CT Scan,Kelas 3,Umum,9
+18,L,B34.9,Tidak Ada,Bronkoskopi,Kelas 1,Umum,3
+25,L,J18.9,Diabetes,Infus,Kelas 2,Umum,6
+56,P,B34.9,"Diabetes, HT",Dialisis,VIP,Umum,12
+55,L,B34.9,Tidak Ada,Bronkoskopi,VIP,Umum,4
+39,L,N18.9,Asma,CT Scan,Kelas 3,BPJS,10
+74,P,A09,Tidak Ada,Bronkoskopi,Kelas 1,BPJS,6
+24,P,B34.9,Diabetes,Observasi,VIP,BPJS,4
+31,P,A09,Tidak Ada,Dialisis,VIP,BPJS,8
+37,L,I10,"Diabetes, HT",Observasi,Kelas 2,BPJS,12
+81,P,B34.9,Diabetes,Bronkoskopi,VIP,Umum,4
+66,L,J18.9,"Diabetes, HT",Observasi,Kelas 3,Umum,12
+53,P,N18.9,Asma,Observasi,VIP,Umum,7
+66,L,I10,Hipertensi,Bronkoskopi,VIP,Umum,13
+47,L,I10,"Diabetes, HT",CT Scan,Kelas 2,Umum,8
+69,P,B34.9,Asma,Observasi,Kelas 1,BPJS,6
+31,L,J18.9,Diabetes,Bronkoskopi,Kelas 3,Umum,8
+49,L,I10,Hipertensi,CT Scan,Kelas 2,BPJS,10
+50,L,A09,Asma,CT Scan,Kelas 2,Umum,11
+46,P,A09,Tidak Ada,Dialisis,Kelas 3,Umum,6
